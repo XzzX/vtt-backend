@@ -1,0 +1,8 @@
+{
+  "title": "Cthulhu",
+  "static-content": "cthulhu",
+  "PCs": ["Eolan", "Aida"],
+  "current-board": {
+    "background": "img/Pellworm.png"
+  }
+}
